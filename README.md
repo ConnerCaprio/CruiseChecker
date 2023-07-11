@@ -1,0 +1,1 @@
+This is a small test project while studying for the AZ-204 test to try making an Azure function that kicks off from a timer trigger that will scrape a website and then send a notification if a certain criteria is met
